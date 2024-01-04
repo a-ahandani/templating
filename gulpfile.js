@@ -88,7 +88,7 @@ const config = {
     context: {},
   },
   metadata: {
-    author: 'Maksim Abuzyarov',
+    author: 'Ahmad Ahandani',
     year: (new Date()).getFullYear()
   }
 };
